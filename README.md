@@ -9,3 +9,4 @@ This repository hosts the documentation and screenshots the templates link to.
 | Family | Folder |
 | --- | --- |
 | Krea 2 | [`krea2/`](krea2/) |
+| LTX 2.3 | [`ltx/`](ltx/) |
